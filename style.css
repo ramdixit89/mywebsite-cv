@@ -1217,3 +1217,18 @@ footer .wave#wave4
         line-height: 38px;
     }
 }
+.skills-content .right .nodejs::before {
+  width: 75%;
+}
+.skills-content .right .restapi::before {
+  width: 80%;
+}
+.skills-content .right .express::before {
+  width: 75%;
+}
+.skills-content .right .postman::before {
+  width: 80%;
+}
+.skills-content .right .jwt::before {
+  width: 70%;
+}
